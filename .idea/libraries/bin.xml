@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="bin" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$APPLICATION_HOME_DIR$/lib/angular-1.4.0" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$APPLICATION_HOME_DIR$/lib/angular-1.4.0" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
